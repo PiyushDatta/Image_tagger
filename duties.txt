@@ -1,5 +1,5 @@
 
-Duties of each group member
+Duties of each group member (only 100 words or less)
 
 Piyush Datta:
 - Create an ImageManager class that communicates to ImageData and TagManager classes when dealing with any images within our application
